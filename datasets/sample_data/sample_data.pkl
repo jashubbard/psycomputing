@@ -1,0 +1,35 @@
+(lp0
+(dp1
+S'Phone'
+p2
+S'541-555-1234'
+p3
+sS'Name'
+p4
+S'John Q. Taxpayer'
+p5
+sS'Email'
+p6
+S'johnq@yahoo.com'
+p7
+sa(dp8
+g2
+S'555-123-4567'
+p9
+sg4
+S'Barack Obama'
+p10
+sg6
+S'president@whitehouse.gov'
+p11
+sa(dp12
+g2
+S'555-123-7712'
+p13
+sg4
+S'Jason Hubbard'
+p14
+sg6
+S'hubbard3@uoregon.edu'
+p15
+sa.
